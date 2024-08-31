@@ -1,4 +1,6 @@
-Hello World!, I’m Heroshi Joe Abejuela, a STEM graduate passionate about Data Science and Machine Learning. I focus on transforming data into actionable insights and have completed both the Google Advanced Data Analytics Specialization and IBM's Applied Data Science Specialization.
+# Hello World! 
+
+I’m Heroshi Joe Abejuela, a STEM graduate passionate about Data Science and Machine Learning. I focus on transforming data into actionable insights and have completed both the Google Advanced Data Analytics Specialization and IBM's Applied Data Science Specialization.
 
 **About Me:**
 - 🌱 **Interests:** Machine Learning, Data Analytics, Data Science, and Statistics.
@@ -14,6 +16,7 @@ Hello World!, I’m Heroshi Joe Abejuela, a STEM graduate passionate about Data 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 **Portfolio:** View my work and projects at [HiroshiJoe.github.io](https://HiroshiJoe.github.io).
 
