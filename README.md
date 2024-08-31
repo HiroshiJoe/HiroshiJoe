@@ -1,6 +1,6 @@
 # Hello World! 👋
 
-I'm <h3><a href="https://kr-agdeppa.github.io">Heroshi!</a></h3>, a STEM graduate passionate about Data Science and Machine Learning. I focus on transforming data into actionable insights and have completed both the Google Advanced Data Analytics Specialization and IBM's Applied Data Science Specialization.
+I’m **[Heroshi!](https://hiroshijoe.github.io/)**, a STEM graduate passionate about Data Science and Machine Learning. I focus on transforming data into actionable insights and have completed both the Google Advanced Data Analytics Specialization and IBM's Applied Data Science Specialization.
 
 **About Me:**
 
