@@ -32,8 +32,4 @@ I’m **[Heroshi](https://hiroshijoe.github.io/)** a STEM graduate passionate ab
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-
-
-**Portfolio:** View my work and projects at [HiroshiJoe.github.io](https://HiroshiJoe.github.io)
-
 Feel free to reach out for collaboration or inquiries!
