@@ -15,8 +15,8 @@ Explore my projects and learn more about my work at: [HiroshiJoe.github.io](http
 
 ## 💼 Contact Me
 - **Email:** [heroshi573@gmail.com](mailto:heroshi573@gmail.com)
-- **LinkedIn:** [Heroshi Joe Abejuela](https://www.linkedin.com/in/hiroshi-abejuela/)
-- **Facebook:** [Heroshi Joe Abejuela](https://www.facebook.com/Hiroshi.Abejuela)
+- **LinkedIn:** [Heroshi Joe Abejuela](https://www.linkedin.com/in/heroshi-joe-abejuela-513413314)
+- **Facebook:** [Heroshi Joe Abejuela](https://www.facebook.com/heroshi.joe.abejuela)
 
 Feel free to reach out if you have any questions or would like to collaborate!
 
