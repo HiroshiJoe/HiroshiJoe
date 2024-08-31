@@ -1,10 +1,11 @@
 # 👋 Hi, I’m Heroshi Joe Abejuela!
 
-Welcome to my GitHub profile! I'm a 19-year-old STEM graduate specializing in research and Data Science. I've completed the **Google Advanced Data Analytics Specialization** and the **Applied Data Science Specialization with IBM**, equipping me with the skills to tackle complex data challenges.
+**Turning Data into Insights** – that's my motto as I navigate the ever-evolving fields of Data Science and Machine Learning. I'm a 19-year-old STEM graduate with a passion for research and data-driven solutions. I've completed the **Google Advanced Data Analytics Specialization** and the **Applied Data Science Specialization with IBM**, which have equipped me with the skills to tackle complex data challenges.
 
 ## 👀 About Me
 - **Interests:** Research in Machine Learning, Data Analytics, Data Science, and General Statistics.
 - **Currently Exploring:** Advanced concepts and applications in Data Science.
+- **Continuous Learning:** I'm committed to staying ahead in the fast-paced world of Data Science and Machine Learning by continuously expanding my knowledge and skills.
 - **Looking to Collaborate On:** Machine Learning projects and Data Science applications.
 - **Pronouns:** He/Him.
 - **Fun Fact:** I’m multilingual! I speak Japanese, English, Bisaya (my native Filipino language), and Tagalog.
