@@ -3,11 +3,13 @@
 I’m Heroshi Joe Abejuela, a STEM graduate passionate about Data Science and Machine Learning. I focus on transforming data into actionable insights and have completed both the Google Advanced Data Analytics Specialization and IBM's Applied Data Science Specialization.
 
 **About Me:**
-- 🌱 **Interests:** Machine Learning, Data Analytics, Data Science, and Statistics.
-- 🌸 **Currently Exploring:** Advanced concepts in Data Science.
-- 📚 **Continuous Learning:** Dedicated to ongoing education in this ever-evolving field.
-- 🤝 **Looking to Collaborate On:** Machine Learning and Data Science projects.
+
+- 🌱 **Interests:** Passionate about Machine Learning, Data Analytics, Data Science, and Statistics.
+- 🌸 **Currently Exploring:** Investigating innovative applications of Machine Learning and Data Science across various industries.
+- 📚 **Continuous Learning:** Actively expanding knowledge and applying new concepts in real-world scenarios.
+- 🤝 **Looking to Collaborate On:** Excited to work on Machine Learning and Data Science projects, and open to new collaboration opportunities.
 - 🗣️ **Languages:** Fluent in Japanese, English, Bisaya, and Tagalog.
+  
 
 **Languages and Tools I Use:**
 
