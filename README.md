@@ -17,6 +17,11 @@ I’m Heroshi Joe Abejuela, a STEM graduate passionate about Data Science and Ma
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge&logo=chatbot&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white)
+
 
 **Portfolio:** View my work and projects at [HiroshiJoe.github.io](https://HiroshiJoe.github.io)
 
